@@ -1,2 +1,3 @@
 # qiniu-python-sdk-examples
-python-sdk-trial-examples
+Trial examples for the qiniu python-dsk
+
